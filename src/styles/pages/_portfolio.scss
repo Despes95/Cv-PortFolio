@@ -13,13 +13,13 @@
 	.radioDisplay {
 		grid-area: 1;
 		border-radius: $borderRadius;
+    border: solid;
 		display: flex;
 		width: 100%;
 		padding: 1rem 2rem;
 		margin: 0 auto;
 		background: $color-1;
 		user-select: none;
-		box-shadow: $shadow;
 
 		li {
 			color: $color-3;
@@ -87,12 +87,11 @@
 			border-color: black;
 			background: $color-1;
 			border-radius: $borderRadius;
-			margin: 0.5rem 0 0 0;
+			margin: 0.5rem 0 0 -0.3rem;
 			text-align: center;
-			width: 32%;
+			width: 33%;
 			max-height: 50%;
 			padding: 0.3rem;
-			box-shadow: $shadow;
 			display: grid;
 			grid-template-rows: 15% 15% 55% 15%;
 			grid-template-areas:
@@ -185,7 +184,7 @@
 			}
 			.button {
 				cursor: pointer;
-				color: $color-1;
+				color: white;
 				background: $color-5;
 				border-radius: $borderRadius;
 				padding: 1rem;
@@ -210,6 +209,7 @@
 	.portfolioContent {
 		.project {
 			width: 49% !important;
+      margin: 0.5rem 0 0 0 !important;
 
 			i {
 				font-size: 1rem;
@@ -230,6 +230,8 @@
 		.project {
 			grid-template-rows: 30px 40px 80px 40px !important;
 			width: 98% !important;
+      margin: 0.5rem 0 0 0 !important;
+
 
 			img {
 				height: 100% !important;
