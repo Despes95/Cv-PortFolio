@@ -5,18 +5,22 @@ const Experience = () => {
     <div className="experience">
       <h3>Expérience</h3>
       <div className="exp-1">
-        <h4>Bla la bla</h4>
-        <p>2018-2020</p>
+        <h4>Développeur web junior</h4>
+        <p>2020-2021</p>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ea culpa recusandae, iure dicta sit voluptatum inventore ex esse similique ipsum sapiente, repellendus necessitatibus cumque eligendi velit blanditiis corrupti illum!
+          Je viens de terminer une formation certifiante de "Développeur Web" chez OpenClassrooms.
         </p>
+        <p>J'ai réaliser plusieurs projet au sein de la formation OpenClassroom ainsi que des projet perso,</p>
+        <p>notamment la creation de site web a l'aide de maquette, l'optimisation de site existant (SE0),</p>
+        <p>et la creation d'un reseau social développé en fullstack avec node JS React et MySQL.</p>
       </div>
       <div className="exp-2">
-        <h4>Bla la bla</h4>
-        <p>2018-2020</p>
+        <h4>Aeronautique</h4>
+        <p>2006-2021</p>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur ea culpa recusandae, iure dicta sit voluptatum inventore ex esse similique ipsum sapiente, repellendus necessitatibus cumque eligendi velit blanditiis corrupti illum!
+        J'ai travailler dans plusieurs boites dans le domaine de l'aeronautique, (Eurocopter, Airbus, Dhiel Aviation, Derichbourg).
         </p>
+        <p>J'ai occuper plusieurs poste, ajusteur composite, drappeur composite et controleur qualité</p>
       </div>
     </div>
   );

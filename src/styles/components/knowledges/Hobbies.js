@@ -14,16 +14,8 @@ const Hobbies = () => {
           <span>Randonnées</span>
         </li>
         <li className="hobby">
-          <i className="fas fa-seedling"></i>
-          <span>Permaculture</span>
-        </li>
-        <li className="hobby">
-          <i className="fab fa-bitcoin"></i>
-          <span>Crypto-monaies</span>
-        </li>
-        <li className="hobby">
-          <i className="fas fa-rocket"></i>
-          <span>Espace</span>
+          <i className="fas fa-book-reader"></i>
+          <span>Lecture</span>
         </li>
       </ul>
     </div>

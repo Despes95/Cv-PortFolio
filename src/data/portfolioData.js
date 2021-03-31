@@ -1,56 +1,56 @@
 export const portfolioData = [
   {
     id: 1,
-    name: 'ipsum.com',
-    languages: ['javascript','css'],
-    languagesIcons: ['fab fa-js','fab fa-css3-alt'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project1.JPG'
+    name: 'Reservia',
+    languages: ['css'],
+    languagesIcons: ['fab fa-css3-alt'],
+    source: 'https://despes95.github.io/PiresNicolas_2_13102020./.',
+    info: 'Intégration maquette d\'un site de recherche par ville d\'hôtels et d\'activités.',
+    picture: './media/project1.PNG'
   },
   {
     id: 2,
-    name: 'lorem.fr',
-    languages: ['javascript','react'],
-    languagesIcons: ['fab fa-js','fab fa-react'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project2.JPG'
+    name: 'OhMyFood',
+    languages: ['javascript','css'],
+    languagesIcons: ['fab fa-js','fab fa-css3-alt'],
+    source: 'https://despes95.github.io/PiresNicolas_3_02112020./',
+    info: 'Frontend (html et css uniquement) d\'un site de commande de menus gastronomiques, avec animations CSS.',
+    picture: './media/project2.PNG'
   },
   {
     id: 3,
-    name: 'dolorset.fr',
-    languages: ['javascript','php','css'],
-    languagesIcons: ['fab fa-js','fab fa-php','fab fa-css3-alt'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project3.JPG'
+    name: 'LaChouetteAgence',
+    languages: ['javascript','css'],
+    languagesIcons: ['fab fa-js','fab fa-css3-alt'],
+    source: 'https://despes95.github.io/PiresNicolas_4_13112020/',
+    info: 'Optimisation SEO et accessibilité du site internet de La Chouette Agence.',
+    picture: './media/project3.PNG'
   },
   {
     id: 4,
-    name: 'laboriosam.fr',
-    languages: ['javascript','php','react'],
-    languagesIcons: ['fab fa-js','fab fa-php','fab fa-react'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project4.JPG'
+    name: 'Orinoco',
+    languages: ['javascript','css'],
+    languagesIcons: ['fab fa-js','fab fa-css3-alt'],
+    source: 'https://github.com/Despes95/Project_5',
+    info: 'E-Boutique Orinoco : frontend HTML CSS JS. Shopping Cart avec localStorage',
+    picture: './media/project4.PNG'
   },
   {
     id: 5,
-    name: 'repudiante.com',
-    languages: ['javascript','css'],
-    languagesIcons: ['fab fa-js', 'fab fa-css3-alt'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project5.JPG'
+    name: 'SoPekocko',
+    languages: ['javascript','css','nodeJS'],
+    languagesIcons: ['fab fa-js', 'fab fa-node-js'],
+    source: 'https://github.com/Despes95/Project6',
+    info: 'Creation backend: Creation d\'une application de notation de sauce piquante',
+    picture: './media/project5.PNG'
   },
   {
     id: 6,
-    name: 'test.io',
-    languages: ['javascript','react', 'css'],
-    languagesIcons: ['fab fa-js','fab fa-react','fab fa-css3-alt'],
-    source: 'http://www.github.com',
-    info: 'Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium, veritatis debitis odio eveniet quos incidunt eaque nemo eius perferendis consequatur? Lorem ipsum, dolor sit amet consectetur adipisicing elit. Accusamus laboriosam aut nihil? Possimus, id facilis dignissimos repudiandae modi dolorum ea accusantium.',
-    picture: './media/project6.JPG'
+    name: 'Groupomania',
+    languages: ['javascript','react', 'css','nodeJS'],
+    languagesIcons: ['fab fa-js','fab fa-react','fab fa-node-js'],
+    source: 'https://github.com/Despes95/Projet-7',
+    info: 'Réseau social de l\'entreprise Groupomania : frontend et backend (Node, Express, MySQL et React)',
+    picture: './media/project6.PNG'
   },
 ]

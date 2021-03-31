@@ -6,7 +6,7 @@ function Navigation() {
     <div className="sidebar">
       <div className="id">
         <div className="idContent">
-          <img src="./media/billGates.jpg" alt="profil-pic" />
+          <img src="./media/moi.jpg" alt="profil-pic" />
           <h3>Despes</h3>
         </div>
       </div>
@@ -43,18 +43,11 @@ function Navigation() {
       <div className="socialNetwork">
         <ul>
           <li>
-            <a href="https://www.google.com" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
+            <a href="https://www.linkedin.com/in/nicolas-pires-a08aa120a/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>
           </li>
           <li>
-            <a href="https://www.google.com" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
+            <a href="https://github.com/Despes95" target="_blank" rel="noopener noreferrer"><i className="fab fa-github"></i></a>
           </li>
-          <li>
-            <a href="https://www.google.com" target="_blank" rel="noopener noreferrer"><i className="fab fa-twitter"></i></a>
-          </li>
-          <li>
-            <a href="https://www.google.com" target="_blank" rel="noopener noreferrer"><i className="fab fa-codepen"></i></a>
-          </li>
-
         </ul>
         <div className="signature">
           <p>Despes - 2021</p>
